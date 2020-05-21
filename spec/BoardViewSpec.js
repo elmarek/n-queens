@@ -9,3 +9,4 @@ describe('ChessboardView', function() {
     expect(view).to.be.ok;
   });
 });
+
